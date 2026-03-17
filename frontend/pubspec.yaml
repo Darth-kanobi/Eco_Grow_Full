@@ -40,6 +40,10 @@ dependencies:
 
   # Analysis Page
   percent_indicator: ^4.2.3
+
+  # PDF Export
+  pdf: ^3.10.8
+  printing: ^5.12.0
 dev_dependencies:
   flutter_test:
     sdk: flutter

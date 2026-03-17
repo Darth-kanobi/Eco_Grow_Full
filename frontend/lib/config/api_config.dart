@@ -9,11 +9,11 @@ class ApiConfig {
   // ──────────────────────────────────────────────
   //  ↓ Change this value to switch environments ↓
   // ──────────────────────────────────────────────
-  static const ApiEnvironment _current = ApiEnvironment.local;
+  static const ApiEnvironment _current = ApiEnvironment.render;
 
   static const Map<ApiEnvironment, String> _urls = {
     ApiEnvironment.local: 'http://localhost:8000',
-    ApiEnvironment.render: 'https://eco-backend-ujod.onrender.com',
+    ApiEnvironment.render: 'https://eco-grow-full.onrender.com',
   };
 
   static String get baseUrl => _urls[_current]!;
