@@ -37,7 +37,7 @@ import pandas as pd
 import numpy as np
 
 # Load ML model once
-MODEL_PATH = "C:/Users/97152/Desktop/Eco_Grow Backend/full_app/ML model/soil_model.pkl"
+MODEL_PATH = "C:/Users/97152/Desktop/Eco_Grow/full_app/ML model/soil_model.pkl"
 try:
     soil_data = joblib.load(MODEL_PATH)
     model = soil_data['model']
