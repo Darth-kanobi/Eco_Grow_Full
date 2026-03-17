@@ -1,8 +1,8 @@
-# Eco Grow Backend — Product Requirements Document
+# Eco_Grow Backend — Product Requirements Document
 
 ## Overview
 
-FastAPI + Beanie (MongoDB) backend for the Eco Grow Flutter mobile app. Provides JWT authentication and RESTful APIs for real-time sensor dashboard, soil analysis, historical trends, and alerts.
+FastAPI + Beanie (MongoDB) backend for the Eco_Grow Flutter mobile app. Provides JWT authentication and RESTful APIs for real-time sensor dashboard, soil analysis, historical trends, and alerts.
 
 ## Tech Stack
 

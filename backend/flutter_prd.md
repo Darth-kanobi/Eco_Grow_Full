@@ -1,4 +1,4 @@
-# Flutter Integration PRD — Eco Grow Backend
+# Flutter Integration PRD — Eco_Grow Backend
 
 ## Base URL
 
